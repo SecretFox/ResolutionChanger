@@ -9,7 +9,7 @@
 		1280,720
 		960, 540
 	-->
-	<Value name="ResChanger_Resolution" value="2560,1440" />
+	<Value name="ResChanger_Resolution" value="1920,1080" />
 	<!--
 		DisplayModes
 		0 = fullscreen
