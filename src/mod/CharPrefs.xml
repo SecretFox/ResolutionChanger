@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<Root>
+	<Value name="resolutionChanger" value="true" />
+	<!--
+		You can use any value that the game supports, but heres some common ones
+		3840,2160
+		2560,1440
+		1920,1080
+		1280,720
+		960, 540
+	-->
+	<Value name="ResChanger_Resolution" value="2560,1440" />
+	<!--
+		DisplayModes
+		0 = fullscreen
+		1 = windowed
+		2 = windowed fullscreen
+	-->
+	<Value name="ResChanger_DisplayMode" value="2" />
+</Root>
